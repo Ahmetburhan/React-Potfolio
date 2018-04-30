@@ -1,0 +1,52 @@
+import parkhero from '../images/work/parkHero.png';
+import parkheroGif from '../images/work/parkHero.gif';
+import burger from '../images/work/burger.png';
+import giphy from '../images/work/giphy.gif';
+import memorygame from '../images/work/memorygame.gif';
+import mongoose from '../images/work/mongoose.gif';
+
+export default [
+    {
+        name: 'ParkHero',
+        info: 'ParkHero is an app that uses React technologies for dynamic front end interacting with an Express back end server and MongoDB for our database in order to provide a dynamic parking lot experience. For web scraping, the app uses the request from superagemt multi times in client/react side.',
+        img: parkheroGif,
+        alt: 'ParkHero',
+        codeLink: "https://github.com/Ahmetburhan/ParkHero",
+        demoLink: "https://flexnotes.net/",
+        youTubeLink: "https://flexnotes.net/",
+        Giphy: parkhero
+    },
+    {
+        name: 'Burger Franchise',
+        info: 'Custom Burger order app built with jQuery, Ajax, and Bootstrap and MySql database.',
+        img: burger,    
+        alt: 'Burger Franchise',
+        codeLink: "https://github.com/Ahmetburhan/burger-franchise",
+        demoLink: "https://burger-franchise.herokuapp.com/"
+    },
+    {
+        name: 'Giphy Reinvented',
+        info: 'Create Giphy buttons and submit them you will see all rating and gifs just hover over to change the state of Gif to pause. Used Giphy API, bootstrap, canvas, modals, html5, css3.',
+        img: giphy,
+        alt: 'Giphy Reinvented',
+        codeLink: "https://github.com/Ahmetburhan/burger-franchise",
+        demoLink: "https://ahmetburhan.github.io/Giphy/"
+    },
+    {
+        name: 'Match Game with React!',
+        info: 'Match Two! is a match game. This project was built using React, Bootstrap, scalable vector graphics (SVG), Photoshop, and Illustrator.',
+        img: memorygame,
+        alt: 'Match Game with React!',
+        codeLink: "https://github.com/Ahmetburhan/React-Memory-Game",
+        demoLink: "https://berkeley-match.herokuapp.com/"
+    },
+    {
+        name: 'MongoDB/Mongoose NYT web-scraper',
+        info: 'MongooseScraper This is an app that uses Cheerio to scrape the New York Times US section and pull the most recent top articles. the app uses express to serve routes and mongoose to interact with a MongoDB database.frontend, the app uses handlebars for templating each article and materialize as a styling framework.The app also uses jQuery and AJAX to help with making post requests. webscraping, the app uses the request and cheerio node packages. All webscrapping code can be found in the scrape.js file.',
+        img: mongoose,
+        alt: 'MongoDB/Mongoose NYT web-scraper',
+        codeLink: "https://github.com/Ahmetburhan/MongooseScraper",
+        demoLink: "https://mongo-scraper-cheerio.herokuapp.com/"
+    },
+    
+];
