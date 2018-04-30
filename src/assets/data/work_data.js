@@ -52,10 +52,10 @@ export default [
         demoLink: "https://mongo-scraper-cheerio.herokuapp.com/"
     },
     {
-        name: 'TaskHero! (Get things done faster for your project),
+        name: 'TaskHero! (Get things done faster for your project)',
         info: 'TaskHero allows you to get things done faster for your project, CRUD based on app includes Google sign in, Express, Sequelize and some css3 transitions ',
-        img: hangman,
-        alt: 'HangmanGame!',
+        img: taskhero,
+        alt: 'TaskHero!',
         codeLink: "https://github.com/Ahmetburhan/TaskRabbit",
         demoLink: "https://task-rabbit.herokuapp.com/blog"
     },
