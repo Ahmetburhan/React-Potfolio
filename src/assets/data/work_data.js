@@ -9,6 +9,8 @@ import train from '../images/work/train.png';
 import portfoliosimple from '../images/work/portfoliosimple.png';
 import petme from '../images/work/petme.png';
 import hangman from '../images/work/hangman.png';
+import taskhero from '../images/work/taskhero.png';
+
 
 
 
@@ -50,6 +52,14 @@ export default [
         demoLink: "https://mongo-scraper-cheerio.herokuapp.com/"
     },
     {
+        name: 'TaskHero! (Get things done faster for your project),
+        info: 'TaskHero allows you to get things done faster for your project, CRUD based on app includes Google sign in, Express, Sequelize and some css3 transitions ',
+        img: hangman,
+        alt: 'HangmanGame!',
+        codeLink: "https://github.com/Ahmetburhan/TaskRabbit",
+        demoLink: "https://task-rabbit.herokuapp.com/blog"
+    },
+    {
         name: 'HangmanGame!',
         info: 'Hangman Game with done w/CSS3 ,Bootstrap and some humor of Simpsons along with Giphys',
         img: hangman,
@@ -80,6 +90,14 @@ export default [
         alt: 'CalTrain Scheduler',
         codeLink: "https://github.com/Ahmetburhan/CalTrainSchedule",
         demoLink: "https://ahmetburhan.github.io/CalTrainSchedule/"
+    },
+    {
+        name: 'Portfolio Page!',
+        info: 'Portfolio page with Bootstrap, scalable vector graphics (SVG), Photoshop, and Illustrator and canvas css3.',
+        img: portfoliosimple,
+        alt: 'Portfolio Page!',
+        codeLink: "https://github.com/Ahmetburhan/ahmetburhan.github.io",
+        demoLink: "https://ahmetburhan.github.io/"
     },
     {
         name: 'friend finder 2.0',
