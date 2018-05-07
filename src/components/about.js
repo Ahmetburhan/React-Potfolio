@@ -33,7 +33,12 @@ export default props =>{
         <div className="col s12 m4">
             <img src={techloop} alt="Kingston" className='bgImg responsive-img'/>
             <div className="background-text text-faded">
-                12+ years experience as a <strong>Flash Design Engineer </strong>at <em>Kingston Technology</em> has molded me into an engineer that can take a concept and develop it into a high volume product.
+                            I am a <strong>front-end software engineer</strong> with 5+ years of experience and 8+ years of start-up experience from all
+the way down from seed funding to be acquired by VCs. Creating beautiful applications and prototyping
+experiences make me happy. Hearing from customers
+that they are loving the experience/having fun/being more productive/wanting more makes me want to do it again and again. Growing these up to scalable, commercially available product/service is a next-level
+reward for me. Let's do the next Big thing together...
+
             </div>
         </div>
         <div className="col s12 m4">

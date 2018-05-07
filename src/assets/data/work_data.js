@@ -24,7 +24,7 @@ export default [
         img: parkhero,
         alt: 'ParkHero',
         codeLink: "https://github.com/Ahmetburhan/ParkHero",
-        demoLink: "http://parkhero.herokuapp.com/",
+        demoLink: "http://http://parkapp2.herokuapp.com/",
         youtube: "https://www.youtube.com/watch?v=UcKDdcHC44E&feature=youtu.be",
     },
     {
