@@ -164,7 +164,7 @@ ReactRotatingText.defaultProps = {
   deletingInterval: 50,
   emptyPause: 1000,
   eraseMode: 'erase',
-  items: ['ReactJS', 'noSQL', 'NodeJS', 'ReactJS', 'noSQL', 'NodeJS', 'ReactJS', 'noSQL', 'NodeJS', 'ReactJS', 'noSQL', 'NodeJS' ],
+  items: ['ReactJS', 'noSQL', 'NodeJS', 'Javascript', 'Redux', 'Handlebars.js', 'jQuery', 'AJAX', 'HTML5', 'CSS3', 'MySQL', 'Mongo', 'Express.js', 'Firebase', 'Sequelize', 'React Router'  ],
   pause: 1500,
   typingInterval: 50,
 };
