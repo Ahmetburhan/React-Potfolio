@@ -13,8 +13,18 @@ export default props=>{
     });
     return(
         <section id='work'>
-            <h3>Some of the Projects...</h3>
+            {/* <h3>Some of the Projects...</h3> */}
+            <br/>
+            <br />            <br />
+
+            <br />
+            <br />            <br />
+
+            <br />
+
             <hr/>
+            <br />
+            <h4>Some of the Projects...</h4>
             <div className="row">
             {cardList}
             </div>

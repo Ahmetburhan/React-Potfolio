@@ -127,11 +127,19 @@ class ReactRotatingText extends React.Component {
 
     return (
       <div className="rotator">
-      <span style={{ fontSize: "18px",
+      <span style={{ fontSize: "2.7em",
         fontWeight: "400",
-        color: "rgb(21, 78, 116)",
-        textAlign: "center"}} {...other}>
-        FULL STACK SOFTWARE ENGINEER WITH EXPERT KNOWLEDGE OF { this.state.output } 
+        color: "#fff",
+        paddingLeft: "15%",
+        paddingTop: "5%",
+        alignItems: 'center',
+        justifyContent: 'center',
+        textShadow: "0 0 4px #666",
+        position: "absolute",
+        zIndex: 1,
+        }} {...other}>
+        Software Engineer 
+        w/ Full Stack Emphasis on { this.state.output } 
         { cursor ? <span className="react-rotating-text-cursor">|</span> : null }
       </span>
       </div>

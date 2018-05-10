@@ -18,8 +18,8 @@ class App extends Component {
     return (
       <div>
         <NavBar/>
-        <ReactRotatingText/>
-        <LandingPage/>
+          <LandingPage />
+          <ReactRotatingText/>
         <Work/>
         <About/>
         <Skills/>
