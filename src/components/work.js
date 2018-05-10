@@ -12,15 +12,7 @@ export default props=>{
         );
     });
     return(
-        <section id='work'>
-            {/* <h3>Some of the Projects...</h3> */}
-            <br/>
-            <br />            <br />
-
-            <br />
-            <br />            <br />
-
-            <br />
+        <section id='work' style={{paddingTop: "150px"}}>
 
             <hr/>
             <br />
