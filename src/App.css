@@ -38,7 +38,7 @@ nav {
 
 .nav-text-name,
 .brand-logo.center {
-    color: #127da1;
+    color: rgb(12, 181, 240);
     font-size: 1.5rem;
     text-transform: uppercase;
     font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
@@ -64,7 +64,7 @@ nav {
 }
 
 .side-nav li > a:hover {
-    background-color: #127da1;
+    background-color: rgb(12, 181, 240);
 }
 
 .nav-text-name:hover, .black-color.sideNavClose.left {
@@ -80,7 +80,7 @@ nav {
 
 .nav-text:hover,
 .nav-text:active {
-    background-color: rgba(18, 125, 161, .9);
+    background-color: rgb(12, 181, 240);
     color: white;
 }
 
