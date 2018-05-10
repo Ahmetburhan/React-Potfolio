@@ -164,6 +164,7 @@ export default class Contact extends Component {
         <h3 className='white-color'>Contact Me</h3>
             <hr className='white-color sub'/>
             <p className='text-faded contact'>The world becomes a better place when people truly express themselves.</p>
+            <p className='text-faded contact'>ahmetburhan@gmail.com  |  (650)-771-2966  or</p>
             <div className="row">
             
         <form className="col s12" onSubmit={this.sendData}>

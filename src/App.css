@@ -102,6 +102,14 @@ nav .button-collapse {
 .landing-img > img {
     width: 100%;
 }
+.hero > h6 {
+    
+        font-size: 18px;
+        font-weight: 400;
+        color: rgb(21, 78, 116);
+        text-align: center;
+    
+}
 
 hr {
     max-width: 75px;

@@ -11,12 +11,14 @@ import About from './components/about';
 import Skills from './components/skills';
 import Contact from './components/contact';
 import Footer from './components/footer';
+import ReactRotatingText from "./components/ReactRotatingText";
 
 class App extends Component {
   render() {
     return (
       <div>
         <NavBar/>
+        <ReactRotatingText/>
         <LandingPage/>
         <Work/>
         <About/>
