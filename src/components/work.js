@@ -17,9 +17,10 @@ export default props=>{
             <hr/>
             <br />
             <div className="col m6 s12" >
-            <h4 style={{ color: "#0cb5f0", fontSize: "2.2em"}}>Some of the Projects...</h4>
+            <h4 style={{ color: "#0cb5f0", fontSize: "2.2em"        }
+        } > Some of the Projects... </h4>
             {/* <WordCloud /> */}
-            <img style={{ paddingLeft: "15%" }} src={WordCloud} alt="Wordcloud" />
+            <img style={{ paddingLeft: "10%" }} src={WordCloud} alt="Wordcloud" />
             </div>
             <div className="row">
             {cardList}

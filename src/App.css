@@ -94,6 +94,20 @@ nav {
     margin: 0;
 }
 
+.btn{
+    background-color: #f90 !important;
+        /* background-color: #98c92e !important; */
+
+        border-radius: 10px !important;
+
+}
+.btn:hover {
+    /* background-color: #98c92e !important; */
+        background-color: #3D9970 !important;
+
+
+}
+
 nav .button-collapse {
     float: right;
     cursor: pointer;

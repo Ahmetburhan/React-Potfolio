@@ -134,7 +134,8 @@ class ReactRotatingText extends React.Component {
         paddingTop: "5%",
         alignItems: 'center',
         justifyContent: 'center',
-        textShadow: "0 0 4px #666",
+        textShadow: "rgb(0, 0, 0) 2px 2px 4px",
+        // textShadow: "0 0 4px #666",
         position: "absolute",
         zIndex: 1,
         }} {...other}>
